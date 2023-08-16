@@ -4,7 +4,6 @@
 # Cap-and-Trade
 ### Does it work and how should it be implemnted
 
-Author - Nighilenth B B ( EE20B089 )
 
 # Introduction
 
